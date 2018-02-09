@@ -1,2 +1,2 @@
-# matt-ext
+# math-ext
 Math utilities
