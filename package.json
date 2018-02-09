@@ -1,5 +1,5 @@
 {
-  "name": "math-ext",
+  "name": "@ma77os/math-ext",
   "version": "1.0.0",
   "description": "math utilities",
   "main": "index.js",
@@ -10,10 +10,14 @@
     "math",
     "utils"
   ],
-  "author": {
-    "name": "André Mattos",
-    "email": "andremattos@gmail.com",
-    "url": "https://github.com/ma77os"
+  "author": "André Mattos <andremattos@gmail.com> (https://github.com/ma77os)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ma77os/math-ext.git"
   },
-  "license": "ISC"
+  "bugs": {
+    "url": "https://github.com/ma77os/math-ext/issues"
+  },
+  "homepage": "https://github.com/ma77os/math-ext#readme"
 }
