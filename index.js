@@ -1,4 +1,4 @@
-export default {
+MathExt = {
 
     PI: 3.1415927,
     TWO_PI: 6.2831855,
@@ -47,3 +47,4 @@ export default {
     },
   }
   
+  module.exports = MathExt
